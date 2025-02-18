@@ -1,4 +1,3 @@
-![Sticker](C:\Users\Dell\Documents\sql data warhousing project\data-warehouse_18273798.png)
 # Data Warehouse and Analytics Project 
 
 Welcome To the **Data Warehouse and Analytics Project** repository!🚀
