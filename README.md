@@ -1,4 +1,5 @@
-# Data Warehouse and Analytics Project
+![Sticker](C:\Users\Dell\Documents\sql data warhousing project\data-warehouse_18273798.png)
+# Data Warehouse and Analytics Project 
 
 Welcome To the **Data Warehouse and Analytics Project** repository!🚀
 This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Design as a portfolio Project, it highlights industry best practices in data engineering and analytics.
